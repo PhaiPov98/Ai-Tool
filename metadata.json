@@ -1,0 +1,5 @@
+{
+  "name": "Veo Video Studio",
+  "description": "A high-fidelity video generation tool using Google's Veo model. Create stunning 1080p videos from text prompts with comprehensive history and preview features.",
+  "requestFramePermissions": []
+}
